@@ -8,7 +8,7 @@
 <!-- - 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning responsive pages
 <!-- - 👯 I’m looking to collaborate on ... -->
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronouns: He/His
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/delgado95">
