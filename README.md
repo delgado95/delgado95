@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on eKaizen Digital 
 - 🌱 I’m currently learning Angular
 - 😄 Pronouns: He/His
-- <!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 👯 I’m looking to collaborate on ... -->
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/delgado95">
