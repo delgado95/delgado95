@@ -6,9 +6,9 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on eKaizen Digital 
-- 🌱 I’m currently learning responsive pages
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 🌱 I’m currently learning Angular
 - 😄 Pronouns: He/His
+- <!-- - 👯 I’m looking to collaborate on ... -->
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/delgado95">
@@ -21,7 +21,7 @@
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-<!--   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> -->
+  <img align="center" alt="Rafa-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
