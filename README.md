@@ -1,14 +1,8 @@
-## Olá, bem vindo ao meu Github! 🚀💻
-## Oiii eu sou o João Delgado
+## Olá, bem vindo ao meu Github! 🚀 
+## Meu nome é João, mas todos me chamam de Delgado
 
-<!-- **delgado95/delgado95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
-<!-- Here are some ideas to get you started: -->
-
-- 🔭 I’m currently working on eKaizen Digital 
-- 🌱 I’m currently learning Angular
-- 😄 Pronouns: He/His
-<!-- - 👯 I’m looking to collaborate on ... -->
+- 🔭 Atualmente estou trabalhando na eKaizen Digital 
+- 🌱 Atualmete estudando Angular/typescript
 
 <div align="center" style="display: inline_block">
   <a href="https://github.com/delgado95">
