@@ -4,7 +4,8 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor Front-end Jr. na Ekaizen
 --------------------------------------
 
-Hoje sou formato em Tecnico em T.I, trabalho no front desde no janeiro, mas estou estudando tanto front quanto back, para me tornar um profissional mais completo
+Hoje sou formato em Tecnico em T.I, trabalho no front desde no janeiro, mas estou estudando tanto front quanto back, para me tornar um profissional mais completo.
+Tenho estudado muito a questão de animação em css.
 
 * 🌍  Sou de Indaiatuba-SP Brasil
 * 🚀  Hoje trabalho na [Ekaizen](http://ekaizen.digital/)
