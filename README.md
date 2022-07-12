@@ -7,6 +7,11 @@ Desenvolvedor Front-end Jr. na Ekaizen
 Hoje sou formato em Tecnico em T.I, trabalho no front desde no janeiro, mas estou estudando tanto front quanto back, para me tornar um profissional mais completo.
 Tenho estudado muito a questão de animação em css. Estudo Segurança da informação da wyden Digital, termieni o primeiro semestre esse mes (julho).
 
+--------------------------------------
+
+Pokedex -> https://delgado95.github.io/PokedexMapaDev/
+Calculadora Responsiva -> https://delgado95.github.io/Calculadora/
+
 * 🌍  Sou de Indaiatuba-SP Brasil
 * 🚀  Hoje trabalho na [Ekaizen](http://ekaizen.digital/)
 * 🧠  Estou estudando Angular e NodeJs
