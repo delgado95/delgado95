@@ -9,7 +9,7 @@ Tenho estudado muito a questão de animação em css. Estudo Segurança da infor
 
 --------------------------------------
 
-Pokedex -> https://delgado95.github.io/PokedexMapaDev/
+Pokedex -> https://delgado95.github.io/PokedexMapaDev/<br>
 Calculadora Responsiva -> https://delgado95.github.io/Calculadora/
 
 * 🌍  Sou de Indaiatuba-SP Brasil
