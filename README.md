@@ -9,6 +9,14 @@ Tenho estudado muito a questão de animação em css. Estudo Segurança da infor
 
 --------------------------------------
 
+* 🌍  Sou de Indaiatuba-SP Brasil
+* 🚀  Hoje trabalho na [Ekaizen](http://ekaizen.digital/)
+* 🧠  Estou estudando Angular e NodeJs
+
+--------------------------------------
+
+### Principais Projetos:
+
 Relogio Digital -> https://delgado95.github.io/Delgado-sWatch/<br>
 Card de Progresso -> https://delgado95.github.io/CircularProgress/<br>
 To do list -> https://delgado95.github.io/ToDoList/<br>
@@ -16,12 +24,7 @@ Card -> https://delgado95.github.io/GlassmorphismCard/<br>
 Pokedex -> https://delgado95.github.io/PokedexMapaDev/<br>
 Calculadora Responsiva -> https://delgado95.github.io/Calculadora/
 
-* 🌍  Sou de Indaiatuba-SP Brasil
-* 🚀  Hoje trabalho na [Ekaizen](http://ekaizen.digital/)
-* 🧠  Estou estudando Angular e NodeJs
-
-<a href="https://www.github.com/delgado95" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/delgado95?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+-------------------------------------
 
 ### Habilidades
 
@@ -54,5 +57,3 @@ src="https://img.shields.io/github/followers/delgado95?logo=github&style=for-the
 <a href="http://www.github.com/delgado95"><img src="https://github-readme-stats.vercel.app/api?username=delgado95&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="delgado95's GitHub stats" /></a>
 <a href="http://www.github.com/delgado95"><img src="https://github-readme-streak-stats.herokuapp.com/?user=delgado95&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
-
-<a href="https://github.com/delgado95" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delgado95&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
