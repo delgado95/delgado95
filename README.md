@@ -8,7 +8,7 @@ Hoje sou formato em Tecnico em T.I, trabalho no front desde no janeiro, mas esto
 Tenho estudado muito a questão de animação em css. Estudo Segurança da informação da wyden Digital, termieni o primeiro semestre esse mes (julho).
 
 --------------------------------------
-
+To do list -> https://delgado95.github.io/ToDoList/<br>
 Card -> https://delgado95.github.io/GlassmorphismCard/<br>
 Pokedex -> https://delgado95.github.io/PokedexMapaDev/<br>
 Calculadora Responsiva -> https://delgado95.github.io/Calculadora/
