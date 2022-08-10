@@ -9,6 +9,7 @@ Tenho estudado muito a questão de animação em css. Estudo Segurança da infor
 
 --------------------------------------
 
+Card -> https://delgado95.github.io/GlassmorphismCard/<br>
 Pokedex -> https://delgado95.github.io/PokedexMapaDev/<br>
 Calculadora Responsiva -> https://delgado95.github.io/Calculadora/
 
