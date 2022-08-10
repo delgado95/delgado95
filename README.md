@@ -10,6 +10,7 @@ Tenho estudado muito a questão de animação em css. Estudo Segurança da infor
 --------------------------------------
 
 Relogio Digital -> https://delgado95.github.io/Delgado-sWatch/<br>
+Card de Progresso -> https://delgado95.github.io/CircularProgress/<br>
 To do list -> https://delgado95.github.io/ToDoList/<br>
 Card -> https://delgado95.github.io/GlassmorphismCard/<br>
 Pokedex -> https://delgado95.github.io/PokedexMapaDev/<br>
