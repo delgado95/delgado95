@@ -24,6 +24,7 @@ LandPage -> https://delgado95.github.io/LandPage/<br>
 Card de Progresso -> https://delgado95.github.io/CircularProgress/<br>
 To do list -> https://delgado95.github.io/ToDoList/<br>
 Card -> https://delgado95.github.io/GlassmorphismCard/<br>
+Sidebar -> https://delgado95.github.io/Sidebar/#<br>
 Pokedex -> https://delgado95.github.io/PokedexMapaDev/<br>
 Calculadora Responsiva -> https://delgado95.github.io/Calculadora/
 
