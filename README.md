@@ -4,8 +4,8 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor Front-end Jr. na Ekaizen
 --------------------------------------
 
-Hoje sou formato em Tecnico em T.I, trabalho no front desde no janeiro, mas estou estudando tanto front quanto back, para me tornar um profissional mais completo.
-Tenho estudado muito a questão de animação em css. Estudo Segurança da informação da wyden Digital, termieni o primeiro semestre esse mes (julho).
+Hoje sou formato em Tecnico T.I pela [Fiec](https://www.fiec.com.br/site/index.do), trabalho no front desde no janeiro, mas estou estudando tanto front quanto back, para me tornar um profissional mais completo.
+Tenho estudado muito a questão de animação em css. Estudo Segurança da informação na [Wyden Digital](https://www.wyden.com.br/), termieni o primeiro semestre esse mes (julho).
 
 --------------------------------------
 
