@@ -21,6 +21,7 @@ Relogio Digital -> https://delgado95.github.io/Delgado-sWatch/<br>
 Login Minecraft -> https://delgado95.github.io/MinecraftLogin/<br>
 Custom CheckBox -> https://delgado95.github.io/CustomCheckbox/<br>
 Dark Mode -> https://delgado95.github.io/LightDarkMode/<br>
+Texto Animado -> https://delgado95.github.io/TextAnimationEffects/<br>
 LandPage -> https://delgado95.github.io/LandPage/<br>
 Card de Progresso -> https://delgado95.github.io/CircularProgress/<br>
 To do list -> https://delgado95.github.io/ToDoList/<br>
