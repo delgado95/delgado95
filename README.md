@@ -20,6 +20,8 @@ Tenho estudado muito a questão de animação em css. Estudo Segurança da infor
 Relogio Digital -> https://delgado95.github.io/Delgado-sWatch/<br>
 Login Minecraft -> https://delgado95.github.io/MinecraftLogin/<br>
 Custom CheckBox -> https://delgado95.github.io/CustomCheckbox/<br>
+No Fume -> https://delgado95.github.io/IsNotSmoking/<br>
+KeyBoard Css -> https://delgado95.github.io/KeyboardKeys/<br>
 Dark Mode -> https://delgado95.github.io/LightDarkMode/<br>
 Texto Animado -> https://delgado95.github.io/TextAnimationEffects/<br>
 LandPage -> https://delgado95.github.io/LandPage/<br>
