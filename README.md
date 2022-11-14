@@ -19,6 +19,7 @@ Tenho estudado muito a questão de animação em css. Estudo Segurança da infor
 
 Relogio Digital -> https://delgado95.github.io/Delgado-sWatch/<br>
 Login Minecraft -> https://delgado95.github.io/MinecraftLogin/<br>
+Color Page -> https://delgado95.github.io/colorRegistrationPage/<br>
 Custom CheckBox -> https://delgado95.github.io/CustomCheckbox/<br>
 Pepsi Lata -> https://delgado95.github.io/CardHoverEffects/<br>
 Is't Smoking -> https://delgado95.github.io/IsNotSmoking/<br>
