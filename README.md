@@ -4,11 +4,11 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor Full-stack.
 --------------------------------------
 
-Atualmente, sou formado como Técnico em T.I pela Fiec. Estou empregado na Vilt, onde trabalho com o AEM (Adobe Experience Manager), o poderoso CMS da Adobe. Além disso, estou expandindo meus conhecimentos em outras ferramentas da Adobe, como o Adobe Target.
+Sou formado como Técnico em T.I pela Fiec e atualmente trabalho na Vilt, onde utilizo o poderoso CMS da Adobe, o AEM (Adobe Experience Manager). Estou constantemente aprimorando minhas habilidades e explorando outras ferramentas da Adobe, como o Adobe Target.
 
-No passado, adquiri experiência trabalhando com Angular e Node. Além disso, também tenho habilidades em animações em CSS, tendo construído alguns projetos para aprimorar minhas habilidades de estilização.
+Ao longo da minha trajetória, adquiri experiência significativa trabalhando com Angular e Node. Além disso, minha paixão por design me levou a desenvolver habilidades em animações em CSS, aplicando-as em projetos que buscam aprimorar a estética e a experiência do usuário. 
 
-Atualmente, estou ampliando meus conhecimentos estudando React, assim como todas as possibilidades que o Redux e o React Native podem oferecer no desenvolvimento web. Meu objetivo é unir todos esses conhecimentos às ferramentas de CMS (Adobe Experience Manager) que utilizo, buscando uma abordagem completa e eficiente no desenvolvimento.
+Buscando expandir ainda mais meu conhecimento, atualmente estou dedicando meus estudos ao React, bem como explorando as capacidades do Redux e do React Native no desenvolvimento web. Meu objetivo é combinar esses conhecimentos com as ferramentas de CMS que utilizo, como o Adobe Experience Manager, a fim de proporcionar soluções completas e eficientes no desenvolvimento.
 
 --------------------------------------
 
