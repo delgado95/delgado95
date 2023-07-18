@@ -4,13 +4,11 @@ Olá ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9
 Desenvolvedor Full-stack.
 --------------------------------------
 
-Hoje sou formato em Tecnico T.I pela [Fiec](https://www.fiec.com.br/site/index.do), trabalho no front desde no janeiro, mas estou estudando tanto front quanto back, para me tornar um profissional mais completo.
-Tenho estudado muito a questão de animação em css. Estudo Segurança da informação na [Wyden Digital](https://www.wyden.com.br/).
---------------------------------------
+Atualmente, sou formado como Técnico em T.I pela Fiec. Estou empregado na Vilt, onde trabalho com o AEM (Adobe Experience Manager), o poderoso CMS da Adobe. Além disso, estou expandindo meus conhecimentos em outras ferramentas da Adobe, como o Adobe Target.
 
-* 🌍  Sou de Indaiatuba-SP Brasil
-* 🧠  Estou estudando Angular e NodeJs
+No passado, adquiri experiência trabalhando com Angular e Node em oportunidades anteriores. Além disso, também tenho habilidades em animações em CSS, tendo construído alguns projetos para aprimorar minhas habilidades de estilização.
 
+Atualmente, estou ampliando meus conhecimentos estudando React, assim como todas as possibilidades que o Redux e o React Native podem oferecer no desenvolvimento web. Meu objetivo é unir todos esses conhecimentos às ferramentas de CMS (Adobe Experience Manager) que utilizo, buscando uma abordagem completa e eficiente no desenvolvimento.
 --------------------------------------
 
 ### Principais Projetos:
