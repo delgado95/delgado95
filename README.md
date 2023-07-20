@@ -10,6 +10,8 @@ Ao longo da minha trajetória, adquiri experiência significativa trabalhando co
 
 Buscando expandir ainda mais meu conhecimento, atualmente estou dedicando meus estudos ao React, bem como explorando as capacidades do Redux e do React Native no desenvolvimento web. Meu objetivo é combinar esses conhecimentos com as ferramentas de CMS que utilizo, como o Adobe Experience Manager, a fim de proporcionar soluções completas e eficientes no desenvolvimento.
 
+"Cada desafio de programação é uma oportunidade para aprender e crescer como desenvolvedor."
+
 --------------------------------------
 
 ### Principais Projetos:
