@@ -16,9 +16,6 @@ Buscando expandir ainda mais meu conhecimento, atualmente estou dedicando meus e
 
 ### Principais Projetos:
 
-Projeto Galleria -> projeto-galleria-iht56955f-delgado95s-projects.vercel.app/<br>
-Projeto Electrum -> projeto-electrum-jksl7e4oy-delgado95s-projects.vercel.app/<br>
-Projeto Agency -> projeto-agency-6s5xrvo6h-delgado95s-projects.vercel.app/<br>
 Relogio Digital -> https://delgado95.github.io/Delgado-sWatch/<br>
 Login Minecraft -> https://delgado95.github.io/MinecraftLogin/<br>
 Color Page -> https://delgado95.github.io/colorRegistrationPage/<br>
